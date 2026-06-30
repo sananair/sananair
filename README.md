@@ -53,10 +53,29 @@ Hi there! I'm **Sana Nair**, a Computer Engineering student passionate about bui
 ## 💻 LeetCode
 
 <p align="center">
-  <a href="https://leetcode.com/u/sananair3010">
+  <a href="https://leetcode.com/u/sananair3010/">
     <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" />
   </a>
 </p>
 
+## 🌐 Connect With Me
 
+<p align="center">
+  <a href="mailto:sanasantosh05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FFF5" />
+  </a>
+  <a href="https://www.linkedin.com/in/sananair">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFF5" />
+  </a>
+  <a href="https://sana-nair-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00FFF5" />
+  </a>
+  <a href="https://github.com/sananair">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FFF5" />
+  </a>
+  <a href="https://leetcode.com/u/sananair3010/">
+    <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00FFF5" />
+  </a>
+</p>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,40:001F3F,70:00F5FF,100:0D1117"/>
