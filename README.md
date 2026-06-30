@@ -4,9 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=00F5FF&center=true&vCenter=true&width=700&lines=Designing+Experiences.;Developing+Solutions.;Building+Intelligent+Web+Applications.;Exploring+AI+%26+Automation.;Learn+%E2%80%A2+Code+%E2%80%A2+Create+%E2%80%A2+Collaborate." />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sananair&label=Profile%20Views&color=00FFF5&style=flat" />
-</p>
 
 ## 👩‍💻 About Me
 
@@ -47,19 +44,19 @@ Hi there! I'm **Sana Nair**, a Computer Engineering student passionate about bui
 | 🏯 **Monastery360** | Digital heritage platform offering immersive virtual monastery tours and interactive cultural experiences. |
 | 🥗 **AI Diet Planner** | GenAI-powered personalized meal planner built for the Capgemini Buildathon. |
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sananair&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sananair&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sananair&theme=2077" />
 </p>
+
+## 💻 LeetCode
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sananair&theme=tokyonight&hide_border=true"/>
-
+  <a href="https://leetcode.com/u/sananair3010">
+    <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" />
+  </a>
 </p>
+
+
 
