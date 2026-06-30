@@ -54,7 +54,7 @@ Hi there! I'm **Sana Nair**, a Computer Engineering student passionate about bui
 
 <p align="center">
   <a href="https://leetcode.com/u/sananair3010/">
-    <img src="https://leetcode-stats.vercel.app/api?username=sananair3010&theme=Dark" />
+    <img src="https://leetcard.jacoblin.cool/sananair3010?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=12" alt="LeetCode Stats"/>
   </a>
 </p>
 
